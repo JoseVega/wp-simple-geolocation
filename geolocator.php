@@ -6,7 +6,6 @@ if (!defined('ABSPATH')) {
 
 use GeoIp2\Database\Reader;
 
-require 'vendor/autoload.php';
 
 /**
  * GeoLocate class.
